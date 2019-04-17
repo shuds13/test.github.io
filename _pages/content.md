@@ -17,11 +17,11 @@ the ECP and broader scientific community. It is part of the [Better Scientific S
 
 Discuss this page on [slack](https://join.slack.com/t/bssw-python/shared_invite/enQtNDcxNDA3OTg0OTYwLTAyOGY0YjdhNDUzOTE1NGUwNGM4MDI1ZDQwY2U3OGY2NzQxZWE4ZDZiZjM2OTEzNDRkNDBkZTEyMDVlMDM2NTE)
 
-### Quick-start Guides
- - [Python for HPC](tutorials/python.whatis.md)
- - [Creating a PYPI package](tutorials/python.pypi-packaging.md)
- - [Using Conda / Anaconda](tutorials/python.conda.md)
- - [Documenting with Sphinx](tutorials/python.doc-sphinx.md)
+### Quick-Start Guides
+ - [Python for HPC](/tutorials/python-whatis/)
+ - [Creating a PYPI package](/tutorials/python-pypi-packaging/)
+ - [Using Conda / Anaconda](/tutorials/python-conda/)
+ - [Documenting with Sphinx](/tutorials/python-doc-sphinx/)
  
  - [Python 102](https://python-102.readthedocs.io/en/latest/index.html) Covers topics that are essential for scientific computing and data analysis in Python, but typically not covered in an introductory course or workshop.
 
@@ -33,7 +33,7 @@ Discuss this page on [slack](https://join.slack.com/t/bssw-python/shared_invite/
  - [Python in HPC Webinar 2017](https://www.exascaleproject.org/event/python-in-hpc-2) 
  - [Python on Summit](https://www.olcf.ornl.gov/wp-content/uploads/2019/02/STW_Feb_20190211_summit_workshop_python.pdf) OLCF Feb 2019 [Note on mpi4py](tutorials/summit-mpi4py-note.md)
 
-### Python resources for Scientists
+### Python Resources for Scientists
  - [XSD Python lecture/video series for Scientists](https://confluence.aps.anl.gov/display/XSDPT/XSD+Python+Training+Home) (From Argonne APS) Recommended as an introductory course for scientists.
  - [SciPy Lectures](http://www.scipy-lectures.org/) A community-based series of tutorials.
  - On-demand learning for Python - using a Transmedia Learning Framework [Webinar](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018) [Python TLF](https://bssw.io/resources/transmedia-learning-frameworks-tlf)
@@ -145,7 +145,7 @@ These packages all involve creating compiled code from Python. This can be done 
 
 ## Scientific Libraries for HPC
 
-### Python Bindings to HPC libraries:
+### Python Bindings to HPC Libraries:
  - [petsc4py](https://bitbucket.org/petsc/petsc4py) Python bindings for PETSc/Tao, the scalable Library for partial differential equations, and numerical optimization.
  - [slepc4py](https://bitbucket.org/slepc/slepc4py) Python bindings for SLEPc, the Scalable Library for Eigenvalue Problem Computations
  - [PyTrilinos](https://trilinos.org/packages/pytrilinos/) A set of python wrappers for selected Trilinos packages
