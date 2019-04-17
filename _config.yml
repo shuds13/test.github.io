@@ -110,7 +110,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Developer at Argonne"
   location         : "Illinois, USA"
-  email            :
+  email            : "shudson@anl.gov"
+  github           : "shuds13"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -293,3 +294,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+      
