@@ -18,7 +18,7 @@ the ECP and broader scientific community. It is part of the [Better Scientific S
 Discuss this page on [slack](https://join.slack.com/t/bssw-python/shared_invite/enQtNDcxNDA3OTg0OTYwLTAyOGY0YjdhNDUzOTE1NGUwNGM4MDI1ZDQwY2U3OGY2NzQxZWE4ZDZiZjM2OTEzNDRkNDBkZTEyMDVlMDM2NTE)
 
 ### Quick-Start Guides
- - [Python for HPC](/tutorials/python-whatis/)
+ - [Python for HPC]({{ site.baseurl }}/tutorials/python-whatis/)
  - [Creating a PYPI package](/tutorials/python-pypi-packaging/)
  - [Using Conda / Anaconda](/tutorials/python-conda/)
  - [Documenting with Sphinx](/tutorials/python-doc-sphinx/)
