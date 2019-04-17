@@ -71,7 +71,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
  - [Beginner's Video](https://www.youtube.com/watch?v=HW29067qVWk&t=1009s)
 
 ### Example: Python at Speed
- - [Electrostatics loop example](notebooks/Compiled_Examples.ipynb) A simple electrostatics loop implemented using pure Python, NumPy, Cython, Numba (inc GPU version) with timings. Contributed by Daniel Smith (MolSSI). [Notes on running](notebooks/running_compiled_examples.md)
+ - [Electrostatics loop example]({{site.baseurl}}/notebooks/Compiled_Examples.ipynb) A simple electrostatics loop implemented using pure Python, NumPy, Cython, Numba (inc GPU version) with timings. Contributed by Daniel Smith (MolSSI). [Notes on running]({{site.baseurl}}/notebooks/running-compiled-examples/)
  
 ### Jupyter on Supercomputers
  
@@ -91,7 +91,7 @@ systems is required to access the Jupyterhub servers.
 The ALCF (Argonne Leadship Computing Facility) now supports Notebooks on Theta and Cooley. An ALCF account is required.
  - [Theta](https://jupyter.alcf.anl.gov/theta/hub/login) Jupyterhub for Theta
  - [Cooley](https://jupyter.alcf.anl.gov/hub/login) Jupyterhub for Cooley
- - [Using Jupyter on Theta](notebooks/explore_theta_jupyterhub.ipynb) A notebook for getting started with Jupyter on Theta
+ - [Using Jupyter on Theta]({{site.baseurl}}/notebooks/explore_theta_jupyterhub.ipynb) A notebook for getting started with Jupyter on Theta
 
 
 ## Scientific Programming in Python
