@@ -1,6 +1,6 @@
 # Obtaining NumPy build configuration.
 
-#### Contributed by [Steve Hudson](https://github.com/shuds13)
+### Contributed by [Steve Hudson](https://github.com/shuds13)
 
 NumPy is based on compiled C extensions and in turn is built upon BLAS/LAPACK libraries. The following gives some information on how to interrogate the build configuration and dependent libraries upon which NumPy is built.
 

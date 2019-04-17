@@ -9,7 +9,7 @@ sidebar:
 
 <!-- ## Documentation with Sphinx -->
 
-#### Contributed by [Steve Hudson](https://github.com/shuds13)
+### Contributed by [Steve Hudson](https://github.com/shuds13)
 
 
 1. [Introduction](#introduction)
@@ -23,13 +23,13 @@ sidebar:
 9. [Feedback](#feedback)
 
 
-### Introduction
+## Introduction
 
 This article introduces documentation with Sphinx for Python projects and is intended as a quick getting started document.
 
 Sphinx is a documentation generator based on interpretation of reStructuredText (abbr. rst or reST). It is used extensively for Python projects.
 
-### Setup
+## Setup
 
 The following gives a very basic setup to get started as quick as possible.
 
@@ -126,7 +126,7 @@ Further Instructions at [First Steps with Sphinx](http://www.sphinx-doc.org/en/s
 Alternative [installation instructions](http://www.sphinx-doc.org/en/stable/install.html)
 
 
-### Autodoc
+## Autodoc
 
 The pyexample project can be found on github [here](https://github.com/shuds13/pyexample)
 
@@ -199,7 +199,7 @@ This can now be repeated for other modules.
 
 To nest sets of modules under the index title see the [libEnsemble example](https://github.com/Libensemble/libensemble/blob/master/docs/examples_modules.rst). And see the front end on [ReadtheDocs](https://libensemble.readthedocs.io)
 
-### Themes
+## Themes
 
 At time of writing the most popular theme is the Readthedocs theme. To change the theme, find the `html_theme` line in conf.py and change. E.g.
 
@@ -211,7 +211,7 @@ You may need to install:
     pip install sphinx_rtd_theme
 
 
-### Using NumPy or Google style docstrings
+## Using NumPy or Google style docstrings
 
 To use the NumPy or Google stype docstrings add the napolean extension to the extension list E.g:
 
@@ -220,7 +220,7 @@ To use the NumPy or Google stype docstrings add the napolean extension to the ex
 For mmore info see [Support for NumPy and Google style docstrings](http://www.sphinx-doc.org/en/stable/ext/napoleon.html)
 
 
-### Upload to ReadTheDocs
+## Upload to ReadTheDocs
 
 <!-- review from here -->>
 Upload your docs directory to your online repository (e.g. github). Then create an account, if necessary, on ReadtheDocs and import the repo.
@@ -245,7 +245,7 @@ sys.modules.update((mod_name, Mock()) for mod_name in MOCK_MODULES)
     
 More info at [ReadtheDocs FAQ](http://docs.readthedocs.io/en/latest/faq.html) 
 
-### Breathe: Combining with Doxygen    
+## Breathe: Combining with Doxygen    
     
 If you have Doxygen instrumented code which you wish to incorporate into a Sphinx document, you can use the [Breathe package](https://breathe.readthedocs.io). 
 
@@ -273,12 +273,12 @@ Doxygen Files
 Then add doxygen_files to your toctree in index.
 
 
-### Links
+## Links
 
 More info at official [webpage](http://www.sphinx-doc.org)
 
 
-### Feedback
+## Feedback
 
 Any feedback/corrections are welcome: shudson@anl.gov
 
