@@ -18,10 +18,10 @@ the ECP and broader scientific community. It is part of the [Better Scientific S
 Discuss this page on [slack](https://join.slack.com/t/bssw-python/shared_invite/enQtNDcxNDA3OTg0OTYwLTAyOGY0YjdhNDUzOTE1NGUwNGM4MDI1ZDQwY2U3OGY2NzQxZWE4ZDZiZjM2OTEzNDRkNDBkZTEyMDVlMDM2NTE)
 
 ### Quick-Start Guides
- - [Python for HPC]({{ site.baseurl }}/tutorials/python-whatis/)
- - [Creating a PYPI package](/tutorials/python-pypi-packaging/)
- - [Using Conda / Anaconda](/tutorials/python-conda/)
- - [Documenting with Sphinx](/tutorials/python-doc-sphinx/)
+ - [Python for HPC]({{site.baseurl}}/tutorials/python-whatis/)
+ - [Creating a PYPI package]({{site.baseurl}}/tutorials/python-pypi-packaging/)
+ - [Using Conda / Anaconda]({{site.baseurl}}/tutorials/python-conda/)
+ - [Documenting with Sphinx]({{site.baseurl}}/tutorials/python-doc-sphinx/)
  
  - [Python 102](https://python-102.readthedocs.io/en/latest/index.html) Covers topics that are essential for scientific computing and data analysis in Python, but typically not covered in an introductory course or workshop.
 
@@ -31,7 +31,7 @@ Discuss this page on [slack](https://join.slack.com/t/bssw-python/shared_invite/
  - [Analyzing Python Performance with Intel VTune](https://www.alcf.anl.gov/files/Tullos-Analyzing_Python_Performance.pdf) 2017 Intel presentation.
  - [Using and Scaling Python](https://www.alcf.anl.gov/files/Scullin-Pavlyk%20_SDL2018_Python.pdf) ALCF Simulation, Data, and Learning Workshop 2018. William Scullin (ALCF) and Oleksandr Pavlyk (Intel)
  - [Python in HPC Webinar 2017](https://www.exascaleproject.org/event/python-in-hpc-2) 
- - [Python on Summit](https://www.olcf.ornl.gov/wp-content/uploads/2019/02/STW_Feb_20190211_summit_workshop_python.pdf) OLCF Feb 2019 [Note on mpi4py](tutorials/summit-mpi4py-note.md)
+ - [Python on Summit](https://www.olcf.ornl.gov/wp-content/uploads/2019/02/STW_Feb_20190211_summit_workshop_python.pdf) OLCF Feb 2019 [Note on mpi4py]({{site.baseurl}}/tutorials/summit-mpi4py-note.md)
 
 ### Python Resources for Scientists
  - [XSD Python lecture/video series for Scientists](https://confluence.aps.anl.gov/display/XSDPT/XSD+Python+Training+Home) (From Argonne APS) Recommended as an introductory course for scientists.
@@ -56,8 +56,8 @@ Discuss this page on [slack](https://join.slack.com/t/bssw-python/shared_invite/
  - [python-patterns](https://github.com/faif/python-patterns) A collection of design patterns and idioms in Python with coded examples.
 
 ### Tips on Python for Scientific Computing
- - [Interrogating NumPy Configuration/Compiler Options](tutorials/interrogating_numpy.md)
- - [Links for moving from Matlab to NumPy](tutorials/matlab-numpy-conversion.md)
+ - [Interrogating NumPy Configuration/Compiler Options]({{site.baseurl}}/tutorials/interrogating_numpy.md)
+ - [Links for moving from Matlab to NumPy]({{site.baseurl}}/tutorials/matlab-numpy-conversion.md)
  
  
 ## Scientific Notebooks
