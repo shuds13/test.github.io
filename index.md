@@ -1,6 +1,7 @@
 ---
-layout: home
 author_profile: true
+sidebar:
+  nav: "home"
 ---
 
 [Full list of Python Materials]({{site.baseurl}}/python-for-hpc/)
@@ -54,6 +55,14 @@ author_profile: true
 The annual SciPy Conference brings together over 800 participants from industry, academia, and government to showcase their latest projects, learn from skilled users and developers, and collaborate on code development.
 
 ---
+
+### Feedback
+
+Any feedback, corrections, and suggested additions are welcome: shudson@anl.gov.
+Join the Slack page or raise a github [issue](https://github.com/betterscientificsoftware/python-for-hpc/issues) in this repository (esp. broken links etc).
+
+If this page was useful you can provide a Star on github:
+<iframe src="https://ghbtns.com/github-btn.html?user=betterscientificsoftware&repo=python-for-hpc&type=star&count=false&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/14rbhkrRxUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKah_O5OZdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->

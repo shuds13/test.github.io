@@ -106,21 +106,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stephen Hudson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer at Argonne"
-  location         : "Illinois, USA"
-  email            : "shudson@anl.gov"
-  github           : "shuds13"
+  name             : "Better Scientific Software"
+  #avatar           : "images/bssw-logo-1A-cropped.png"
+  bio              : "So my code will see the future"
+  website          : "bssw.io"
+  github           : "betterscientificsoftware"
   slack            : "bssw-python"
-  linkedin         : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "BSSw Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://bssw.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,9 +130,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Slack"
-      icon: "fab fa-fw fa-slack"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Discuss on Slack"
+      icon: "fab fa-fw fa-slack"
 # Site Footer
 footer:
   links:

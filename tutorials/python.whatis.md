@@ -1,14 +1,15 @@
 ---
+author: Stephen Hudson
 layout: single
 permalink: /tutorials/python-whatis/
 title: "Python for HPC"
-author_profile: false
+author_profile: true
 sidebar:
   nav: "content"
 ---
 <!--# Python: Python for HPC-->
 
-### Contributed by [Steve Hudson](https://github.com/shuds13)
+<!-- ### Contributed by [Steve Hudson](https://github.com/shuds13) -->
 
 ## Introduction
 

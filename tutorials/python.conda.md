@@ -1,15 +1,16 @@
 ---
+author: Stephen Hudson
 layout: single
 permalink: /tutorials/python-conda/
 title: "Conda and Anaconda"
-author_profile: false
+author_profile: true
 sidebar:
   nav: "content"
 ---
 
 <!-- # Conda and Anaconda -->
 
-### Contributed by [Steve Hudson](https://github.com/shuds13)
+<!-- ### Contributed by [Steve Hudson](https://github.com/shuds13) -->
 
 ## What is Conda/Anaconda/Miniconda
 

@@ -1,15 +1,16 @@
 ---
+author: Stephen Hudson
 layout: single
 permalink: /tutorials/python-doc-sphinx/
 title: "Documentation with Sphinx"
-author_profile: false
+author_profile: true
 sidebar:
   nav: "content"
 ---
 
 <!-- ## Documentation with Sphinx -->
 
-### Contributed by [Steve Hudson](https://github.com/shuds13)
+<!-- ### Contributed by [Steve Hudson](https://github.com/shuds13) -->
 
 
 1. [Introduction](#introduction)

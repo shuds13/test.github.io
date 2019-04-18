@@ -774,7 +774,7 @@ nl: &DEFAULT_NL
   follow_label               : "Volg:"
   feed_label                 : "Feed"
   powered_by                 : "Aangedreven door"
-  website_label              : "Website"
+  website_label              : "images/bssw-logo-1.png"
   email_label                : "Email"
   recent_posts               : "Recente berichten"
   undefined_wpm              : "Niet gedefinieerde parameter words_per_minute bij _config.yml"

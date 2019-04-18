@@ -1,15 +1,16 @@
 ---
+author: Stephen Hudson
 layout: single
 permalink: /tutorials/python-pypi-packaging/
 title: "Python: Creating a pip installable package"
-author_profile: false
+author_profile: true
 sidebar:
   nav: "content"
 ---
 
 <!-- # Python: Creating a pip installable package -->
 
-### Contributed by [Steve Hudson](https://github.com/shuds13)
+<!-- ### Contributed by [Steve Hudson](https://github.com/shuds13) -->
 
 1. [Introduction](#introduction)
 2. [What is pip?](#what-is-pip)
