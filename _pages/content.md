@@ -162,6 +162,13 @@ These packages all involve creating compiled code from Python. This can be done 
 ## Other
  
 ### Conferences and Events
+
+**Upcoming:**
+ - [SciPy 2019 Austin, Texas, July 8-14th](https://www.scipy2019.scipy.org/)
+
+
+**Previous Events:**
+
  - [SciPy 2018 Videos](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR)
  - [ALCF Simulation, Data and Learning Workshop 2018](https://www.alcf.anl.gov/workshops/sdl-workshop-oct2018) Includes slides for many relevant presentations.
  - PyHPC Workshop 2018 (In conjunction with SC18) [Twitter page](https://twitter.com/pythonhpc?lang=en)
