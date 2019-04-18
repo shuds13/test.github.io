@@ -110,7 +110,7 @@ author:
   #avatar           : "images/bssw-logo-1A-cropped.png"
   bio              : "So my code will see the future"
   website          : "bssw.io"
-  github           : "betterscientificsoftware"
+  github           : "betterscientificsoftware/python-for-hpc"
   slack            : "bssw-python"
   links:
     - label: "Email"
